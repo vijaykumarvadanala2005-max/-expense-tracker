@@ -1,0 +1,93 @@
+{
+  "transactions": [
+    {
+      "id": "1",
+      "title": "Salary",
+      "category": "Income",
+      "amount": 25000,
+      "type": "income",
+      "date": "2026-11-20"
+    },
+    {
+      "id": "2",
+      "title": "Groceries",
+      "category": "Food",
+      "amount": 2500,
+      "type": "expense",
+      "date": "2026-11-19"
+    },
+    {
+      "id": "3",
+      "title": "Travel",
+      "category": "Transport",
+      "amount": 1200,
+      "type": "expense",
+      "date": "2026-11-18"
+    },
+    {
+      "id": "4",
+      "title": "Freelance Work",
+      "category": "Income",
+      "amount": 5000,
+      "type": "income",
+      "date": "2026-11-17"
+    },
+    {
+      "id": "t74cZ-neaCw",
+      "title": "abcd",
+      "category": "Food",
+      "amount": 50,
+      "type": "expense",
+      "date": "2026-11-23"
+    },
+    {
+      "id": "CODr8qRSZzo",
+      "title": "aa",
+      "category": "Income",
+      "amount": 100,
+      "type": "income",
+      "date": "2026-11-23"
+    },
+    {
+      "id": "74LfiVEATTU",
+      "title": "ad",
+      "category": "Food",
+      "amount": 50,
+      "type": "expense",
+      "date": "2026-11-23"
+    },
+    {
+      "id": "p7ihrIgc_ak",
+      "title": "ac",
+      "category": "Transport",
+      "amount": 10,
+      "type": "expense",
+      "date": "2026-11-23"
+    },
+    {
+      "id": "QLw6x6r2Zok",
+      "title": "ad",
+      "category": "Food",
+      "amount": 10,
+      "type": "expense",
+      "date": "2026-11-23"
+    },
+    {
+      "id": "VGvR6k7k70E",
+      "title": "test expense",
+      "category": "Food",
+      "amount": 100,
+      "type": "expense",
+      "date": "2026-11-23"
+    },
+    {
+      "title": "Salary",
+      "amount": 50000,
+      "type": "income",
+      "category": "Food",
+      "date": "2026-11-23",
+      "id": "x8d6v6v0bXs"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
